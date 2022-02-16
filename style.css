@@ -4,3 +4,7 @@ body {
   color: white;
   font-weight: bolder;
 }
+
+.photo {
+  width: 200px;
+}
